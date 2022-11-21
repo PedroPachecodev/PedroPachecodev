@@ -1,5 +1,11 @@
 # Pedro-Pacheco
 
+<styles>
+body{
+display: flex;
+}
+</styles>
+
 <h1>Hi, my name is Pedro Henrique Pacheco, but you can call me PHP</h1>
 
 Im 16 years old;<br>
