@@ -1,19 +1,12 @@
 # Pedro-Pacheco
 
-<styles>
-div{
-display: flex;
-background-color: red;
-}
-</styles>
-
 <h1>Hi, my name is Pedro Henrique Pacheco, but you can call me PHP</h1>
 
 Im 16 years old;<br>
 
 learning: Java, Javascript, HTML, CSS, Git & MySQL<br>
 
-<div align="center">
+<div align="center" display="flex">
   <a href="https://github.com/PedroPachecodev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroPachecodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPachecodev&layout=compact&langs_count=7&theme=dark"/>
