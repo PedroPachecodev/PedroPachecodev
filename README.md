@@ -1,8 +1,9 @@
 # Pedro-Pacheco
 
 <styles>
-body{
+div{
 display: flex;
+background-color: red;
 }
 </styles>
 
